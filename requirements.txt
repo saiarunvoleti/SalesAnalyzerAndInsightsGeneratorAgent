@@ -1,0 +1,11 @@
+langchain
+langchain_community
+langchain-chroma
+langchain_cohere
+langgraph
+requests
+streamlit
+flask
+gevent
+streamlit
+langchain_openai
